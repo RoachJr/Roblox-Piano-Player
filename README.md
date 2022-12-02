@@ -10,4 +10,4 @@ Steps to install:
 4. Adjust the key delay to your liking.
 5. Play!
 
-(to play instruments on games like wild west, make sure you remove ALL spaces in the music so nothing screws up, if it is not then you are fine.)
+(to play instruments on games like wild west, make sure you remove ALL spaces in the music so nothing screws up, if it is not then you are fine)
