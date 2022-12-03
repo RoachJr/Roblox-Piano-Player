@@ -10,4 +10,6 @@ Steps to install:
 3. Adjust the key delay to your liking.
 4. Play!
 
+If for some reason the download is not working, use the direct download link. https://github.com/Sleep-Demon/Roblox-Piano-Player/raw/main/Roblox%20Piano.exe
+
 (to play instruments on games like wild west, make sure you remove ALL spaces in the music so nothing screws up, if it is not then you are fine)
