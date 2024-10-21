@@ -1,4 +1,6 @@
-# Roblox-Piano-Player
+# ⚠️ WARNING ⚠️ The code for the EXE file has become outdated and I have no future plans on updating this.
+
+## Roblox-Piano-Player
 Simply paste in the sheet of the song you want to play, adjust the key delay to your liking, and play!
 
 
